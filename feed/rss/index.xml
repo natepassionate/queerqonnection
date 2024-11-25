@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Redirecting...</title>
+		<meta http-equiv="refresh" content="0;url=//www.queerqonnection.com/feed/">
+	</head>
+	<body>
+		<script type="text/javascript">
+			window.location = "//www.queerqonnection.com/feed/";
+		</script>
+
+		<p>You are being redirected to <a href="//www.queerqonnection.com/feed/">//www.queerqonnection.com/feed/</a></p>
+	</body>
+</html>

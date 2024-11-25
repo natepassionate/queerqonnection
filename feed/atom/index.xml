@@ -1,38 +1,34 @@
-<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:media="http://search.yahoo.com/mrss/"
-	xmlns:content="http://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
-	xmlns:dc="http://purl.org/dc/elements/1.1/"
-	xmlns:atom="http://www.w3.org/2005/Atom"
-	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+<?xml version="1.0" encoding="UTF-8"?><feed
+	xmlns="http://www.w3.org/2005/Atom"
+	xmlns:thr="http://purl.org/syndication/thread/1.0"
+	xml:lang="en-US"
 	>
+	<title type="text">QueerQonnection</title>
+	<subtitle type="text"></subtitle>
 
-<channel>
-	<title>QueerQonnection</title>
-	<atom:link href="//www.queerqonnection.com/feed/" rel="self" type="application/rss+xml" />
-	<link>//www.queerqonnection.com</link>
-	<description></description>
-	<lastBuildDate>Sun, 24 Nov 2024 17:33:16 +0000</lastBuildDate>
-	<language>en-US</language>
-	<sy:updatePeriod>
-	hourly	</sy:updatePeriod>
-	<sy:updateFrequency>
-	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.7.1</generator>
-	<item>
-		<title>Exploring the Economic Landscape with Carlos Casanova: A Vision for Hong Kong and Beyond</title>
-		<link>//www.queerqonnection.com/exploring-the-economic-landscape-with-carlos-casanova-a-vision-for-hong-kong-and-beyond/</link>
-					<comments>//www.queerqonnection.com/exploring-the-economic-landscape-with-carlos-casanova-a-vision-for-hong-kong-and-beyond/#respond</comments>
-		
-		<dc:creator><![CDATA[nathan]]></dc:creator>
-		<pubDate>Sun, 24 Nov 2024 04:12:13 +0000</pubDate>
-				<category><![CDATA[Hong Kong]]></category>
-		<category><![CDATA[Leaked Photos]]></category>
-		<guid isPermaLink="false">//www.queerqonnection.com/?p=51</guid>
+	<updated>2024-11-24T17:33:16Z</updated>
 
-					<description><![CDATA[In today’s fast-paced global economy, staying ahead of trends and adapting to changing dynamics is crucial. Carlos Casanova, a prominent economist and director at UBP (Union Bancaire Privée) in Hong Kong, has made a significant mark in the financial world, particularly in the field of private banking. As a leading economist in the region, Casanova&#8217;s [&#8230;]]]></description>
-										<content:encoded><![CDATA[
+	<link rel="alternate" type="text/html" href="//www.queerqonnection.com" />
+	<id>//www.queerqonnection.com/feed/atom/</id>
+	<link rel="self" type="application/atom+xml" href="//www.queerqonnection.com/feed/atom/" />
+
+	<generator uri="https://wordpress.org/" version="6.7.1">WordPress</generator>
+	<entry>
+		<author>
+			<name>nathan</name>
+							<uri>//www.queerqonnection.com</uri>
+						</author>
+
+		<title type="html"><![CDATA[Exploring the Economic Landscape with Carlos Casanova: A Vision for Hong Kong and Beyond]]></title>
+		<link rel="alternate" type="text/html" href="//www.queerqonnection.com/exploring-the-economic-landscape-with-carlos-casanova-a-vision-for-hong-kong-and-beyond/" />
+
+		<id>//www.queerqonnection.com/?p=51</id>
+		<updated>2024-11-24T04:12:15Z</updated>
+		<published>2024-11-24T04:12:13Z</published>
+		<category scheme="//www.queerqonnection.com" term="Hong Kong" /><category scheme="//www.queerqonnection.com" term="Leaked Photos" />
+		<summary type="html"><![CDATA[In today’s fast-paced global economy, staying ahead of trends and adapting to changing dynamics is crucial. Carlos Casanova, a prominent economist and director at UBP (Union Bancaire Privée) in Hong Kong, has made a significant mark in the financial world, particularly in the field of private banking. As a leading economist in the region, Casanova&#8217;s [&#8230;]]]></summary>
+
+					<content type="html" xml:base="//www.queerqonnection.com/exploring-the-economic-landscape-with-carlos-casanova-a-vision-for-hong-kong-and-beyond/"><![CDATA[
 <figure class="wp-block-image aligncenter size-large is-resized"><img decoding="async" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///ywAAAAAAQABAAACAUwAOw==" fifu-lazy="1" fifu-data-sizes="auto" fifu-data-srcset="https://i3.wp.com/images.mirror-media.xyz/publication-images/mWKPh8vafkdcehptSS13b.png?ssl=1&w=75&resize=75&ssl=1 75w, https://i3.wp.com/images.mirror-media.xyz/publication-images/mWKPh8vafkdcehptSS13b.png?ssl=1&w=100&resize=100&ssl=1 100w, https://i3.wp.com/images.mirror-media.xyz/publication-images/mWKPh8vafkdcehptSS13b.png?ssl=1&w=150&resize=150&ssl=1 150w, https://i3.wp.com/images.mirror-media.xyz/publication-images/mWKPh8vafkdcehptSS13b.png?ssl=1&w=240&resize=240&ssl=1 240w, https://i3.wp.com/images.mirror-media.xyz/publication-images/mWKPh8vafkdcehptSS13b.png?ssl=1&w=320&resize=320&ssl=1 320w, https://i3.wp.com/images.mirror-media.xyz/publication-images/mWKPh8vafkdcehptSS13b.png?ssl=1&w=500&resize=500&ssl=1 500w, https://i3.wp.com/images.mirror-media.xyz/publication-images/mWKPh8vafkdcehptSS13b.png?ssl=1&w=640&resize=640&ssl=1 640w, https://i3.wp.com/images.mirror-media.xyz/publication-images/mWKPh8vafkdcehptSS13b.png?ssl=1&w=800&resize=800&ssl=1 800w, https://i3.wp.com/images.mirror-media.xyz/publication-images/mWKPh8vafkdcehptSS13b.png?ssl=1&w=1024&resize=1024&ssl=1 1024w, https://i3.wp.com/images.mirror-media.xyz/publication-images/mWKPh8vafkdcehptSS13b.png?ssl=1&w=1280&resize=1280&ssl=1 1280w, https://i3.wp.com/images.mirror-media.xyz/publication-images/mWKPh8vafkdcehptSS13b.png?ssl=1&w=1600&resize=1600&ssl=1 1600w" fifu-data-src="https://i3.wp.com/images.mirror-media.xyz/publication-images/mWKPh8vafkdcehptSS13b.png?ssl=1" alt="" style="width:645px;height:auto"/></figure>
 
 
@@ -132,27 +128,28 @@
 
 
 <p><a href="https://p2d.crustapps.net/buy-files/1HgXi6https://p2d.crustapps.net/buy-files/1HgXi6">https://p2d.crustapps.net/buy-files/1HgXi6https://p2d.crustapps.net/buy-files/1HgXi6</a></p>
-]]></content:encoded>
-					
-					<wfw:commentRss>//www.queerqonnection.com/exploring-the-economic-landscape-with-carlos-casanova-a-vision-for-hong-kong-and-beyond/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
+]]></content>
 		
-		
-		<media:content url="https://i3.wp.com/images.mirror-media.xyz/publication-images/mWKPh8vafkdcehptSS13b.png" medium="image"></media:content>
-				</item>
-		<item>
-		<title>Henno Boshoff: A Leading Counsel at Harneys and a Notable Legal Expert</title>
-		<link>//www.queerqonnection.com/henno-boshoff-a-leading-counsel-at-harneys-and-a-notable-legal-expert/</link>
-					<comments>//www.queerqonnection.com/henno-boshoff-a-leading-counsel-at-harneys-and-a-notable-legal-expert/#respond</comments>
-		
-		<dc:creator><![CDATA[nathan]]></dc:creator>
-		<pubDate>Sat, 23 Nov 2024 04:38:49 +0000</pubDate>
-				<category><![CDATA[Singapore]]></category>
-		<category><![CDATA[Leaked Photos]]></category>
-		<guid isPermaLink="false">//www.queerqonnection.com/?p=49</guid>
+					<link rel="replies" type="text/html" href="//www.queerqonnection.com/exploring-the-economic-landscape-with-carlos-casanova-a-vision-for-hong-kong-and-beyond/#comments" thr:count="0" />
+			<link rel="replies" type="application/atom+xml" href="//www.queerqonnection.com/exploring-the-economic-landscape-with-carlos-casanova-a-vision-for-hong-kong-and-beyond/feed/atom/" thr:count="0" />
+			<thr:total>0</thr:total>
+			</entry>
+		<entry>
+		<author>
+			<name>nathan</name>
+							<uri>//www.queerqonnection.com</uri>
+						</author>
 
-					<description><![CDATA[Henno Boshoff is a distinguished counsel at Harneys, a leading global law firm that provides expert legal services to clients across the world. With a reputation for excellence, Henno brings a wealth of legal experience and insight into his role at Harneys, where he specializes in complex cross-border transactions, corporate law, and international dispute resolution. [&#8230;]]]></description>
-										<content:encoded><![CDATA[
+		<title type="html"><![CDATA[Henno Boshoff: A Leading Counsel at Harneys and a Notable Legal Expert]]></title>
+		<link rel="alternate" type="text/html" href="//www.queerqonnection.com/henno-boshoff-a-leading-counsel-at-harneys-and-a-notable-legal-expert/" />
+
+		<id>//www.queerqonnection.com/?p=49</id>
+		<updated>2024-11-24T17:33:16Z</updated>
+		<published>2024-11-23T04:38:49Z</published>
+		<category scheme="//www.queerqonnection.com" term="Singapore" /><category scheme="//www.queerqonnection.com" term="Leaked Photos" />
+		<summary type="html"><![CDATA[Henno Boshoff is a distinguished counsel at Harneys, a leading global law firm that provides expert legal services to clients across the world. With a reputation for excellence, Henno brings a wealth of legal experience and insight into his role at Harneys, where he specializes in complex cross-border transactions, corporate law, and international dispute resolution. [&#8230;]]]></summary>
+
+					<content type="html" xml:base="//www.queerqonnection.com/henno-boshoff-a-leading-counsel-at-harneys-and-a-notable-legal-expert/"><![CDATA[
 <figure class="wp-block-image aligncenter size-large is-resized"><img decoding="async" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///ywAAAAAAQABAAACAUwAOw==" fifu-lazy="1" fifu-data-sizes="auto" fifu-data-srcset="https://i0.wp.com/images.mirror-media.xyz/publication-images/L-5uIAKjcWhu3n5roU9b5.jpeg?ssl=1&w=75&resize=75&ssl=1 75w, https://i0.wp.com/images.mirror-media.xyz/publication-images/L-5uIAKjcWhu3n5roU9b5.jpeg?ssl=1&w=100&resize=100&ssl=1 100w, https://i0.wp.com/images.mirror-media.xyz/publication-images/L-5uIAKjcWhu3n5roU9b5.jpeg?ssl=1&w=150&resize=150&ssl=1 150w, https://i0.wp.com/images.mirror-media.xyz/publication-images/L-5uIAKjcWhu3n5roU9b5.jpeg?ssl=1&w=240&resize=240&ssl=1 240w, https://i0.wp.com/images.mirror-media.xyz/publication-images/L-5uIAKjcWhu3n5roU9b5.jpeg?ssl=1&w=320&resize=320&ssl=1 320w, https://i0.wp.com/images.mirror-media.xyz/publication-images/L-5uIAKjcWhu3n5roU9b5.jpeg?ssl=1&w=500&resize=500&ssl=1 500w, https://i0.wp.com/images.mirror-media.xyz/publication-images/L-5uIAKjcWhu3n5roU9b5.jpeg?ssl=1&w=640&resize=640&ssl=1 640w, https://i0.wp.com/images.mirror-media.xyz/publication-images/L-5uIAKjcWhu3n5roU9b5.jpeg?ssl=1&w=800&resize=800&ssl=1 800w, https://i0.wp.com/images.mirror-media.xyz/publication-images/L-5uIAKjcWhu3n5roU9b5.jpeg?ssl=1&w=1024&resize=1024&ssl=1 1024w, https://i0.wp.com/images.mirror-media.xyz/publication-images/L-5uIAKjcWhu3n5roU9b5.jpeg?ssl=1&w=1280&resize=1280&ssl=1 1280w, https://i0.wp.com/images.mirror-media.xyz/publication-images/L-5uIAKjcWhu3n5roU9b5.jpeg?ssl=1&w=1600&resize=1600&ssl=1 1600w" fifu-data-src="https://i0.wp.com/images.mirror-media.xyz/publication-images/L-5uIAKjcWhu3n5roU9b5.jpeg?ssl=1" alt="" style="width:645px;height:auto"/></figure>
 
 
@@ -210,27 +207,28 @@
 
 
 <p>Henno Boshoff is known for his sharp legal mind and professional accomplishments, but like many successful individuals, there may be aspects of his life that remain private and intriguing. While there&#8217;s no public information to suggest anything beyond his professional prowess, some might speculate about the &#8220;hidden assets&#8221; that make him stand out in his field. Whether it&#8217;s his calm under pressure or his ability to &#8220;grow&#8221; in his legal career, Boshoff’s quiet confidence and consistent success indicate that, much like a grower, his talents and expertise evolve and expand steadily over time, making him a formidable force in the legal world.<br><br><a href="https://p2d.crustapps.net/buy-files/1HgXi4">https://p2d.crustapps.net/buy-files/1HgXi4</a><br><a href="https://shoppy.gg/product/AxuuqgL">https://shoppy.gg/product/AxuuqgL</a></p>
-]]></content:encoded>
-					
-					<wfw:commentRss>//www.queerqonnection.com/henno-boshoff-a-leading-counsel-at-harneys-and-a-notable-legal-expert/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
+]]></content>
 		
-		
-		<media:content url="https://i0.wp.com/images.mirror-media.xyz/publication-images/L-5uIAKjcWhu3n5roU9b5.jpeg" medium="image"></media:content>
-				</item>
-		<item>
-		<title>The Phenomenon of 張賢 Johnny johnny.run A Taiwanese Influencer Who’s Captivating Audiences Worldwide</title>
-		<link>//www.queerqonnection.com/the-phenomenon-of-johnny-johnny-run-a-taiwanese-influencer-whos-captivating-audiences-worldwide/</link>
-					<comments>//www.queerqonnection.com/the-phenomenon-of-johnny-johnny-run-a-taiwanese-influencer-whos-captivating-audiences-worldwide/#respond</comments>
-		
-		<dc:creator><![CDATA[nathan]]></dc:creator>
-		<pubDate>Thu, 21 Nov 2024 02:41:50 +0000</pubDate>
-				<category><![CDATA[Taiwan]]></category>
-		<category><![CDATA[Leaked Video]]></category>
-		<guid isPermaLink="false">//www.queerqonnection.com/?p=45</guid>
+					<link rel="replies" type="text/html" href="//www.queerqonnection.com/henno-boshoff-a-leading-counsel-at-harneys-and-a-notable-legal-expert/#comments" thr:count="0" />
+			<link rel="replies" type="application/atom+xml" href="//www.queerqonnection.com/henno-boshoff-a-leading-counsel-at-harneys-and-a-notable-legal-expert/feed/atom/" thr:count="0" />
+			<thr:total>0</thr:total>
+			</entry>
+		<entry>
+		<author>
+			<name>nathan</name>
+							<uri>//www.queerqonnection.com</uri>
+						</author>
 
-					<description><![CDATA[In a world where social media influencers reign supreme, few stand out as much as 張賢 Johnny, known by his online handle @johnny.run. With a dedicated following of 100k fans and counting, this Taiwanese star has quickly risen to fame, blending fitness, charisma, and captivating webcam shows that have earned him a devoted audience across [&#8230;]]]></description>
-										<content:encoded><![CDATA[
+		<title type="html"><![CDATA[The Phenomenon of 張賢 Johnny johnny.run A Taiwanese Influencer Who’s Captivating Audiences Worldwide]]></title>
+		<link rel="alternate" type="text/html" href="//www.queerqonnection.com/the-phenomenon-of-johnny-johnny-run-a-taiwanese-influencer-whos-captivating-audiences-worldwide/" />
+
+		<id>//www.queerqonnection.com/?p=45</id>
+		<updated>2024-11-21T02:58:03Z</updated>
+		<published>2024-11-21T02:41:50Z</published>
+		<category scheme="//www.queerqonnection.com" term="Taiwan" /><category scheme="//www.queerqonnection.com" term="Leaked Video" />
+		<summary type="html"><![CDATA[In a world where social media influencers reign supreme, few stand out as much as 張賢 Johnny, known by his online handle @johnny.run. With a dedicated following of 100k fans and counting, this Taiwanese star has quickly risen to fame, blending fitness, charisma, and captivating webcam shows that have earned him a devoted audience across [&#8230;]]]></summary>
+
+					<content type="html" xml:base="//www.queerqonnection.com/the-phenomenon-of-johnny-johnny-run-a-taiwanese-influencer-whos-captivating-audiences-worldwide/"><![CDATA[
 <figure class="wp-block-image aligncenter size-large is-resized"><img decoding="async" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///ywAAAAAAQABAAACAUwAOw==" fifu-lazy="1" fifu-data-sizes="auto" fifu-data-srcset="https://i0.wp.com/images.mirror-media.xyz/publication-images/hliV_HVPiSIsFrUr_O12z.jpeg?ssl=1&w=75&resize=75&ssl=1 75w, https://i0.wp.com/images.mirror-media.xyz/publication-images/hliV_HVPiSIsFrUr_O12z.jpeg?ssl=1&w=100&resize=100&ssl=1 100w, https://i0.wp.com/images.mirror-media.xyz/publication-images/hliV_HVPiSIsFrUr_O12z.jpeg?ssl=1&w=150&resize=150&ssl=1 150w, https://i0.wp.com/images.mirror-media.xyz/publication-images/hliV_HVPiSIsFrUr_O12z.jpeg?ssl=1&w=240&resize=240&ssl=1 240w, https://i0.wp.com/images.mirror-media.xyz/publication-images/hliV_HVPiSIsFrUr_O12z.jpeg?ssl=1&w=320&resize=320&ssl=1 320w, https://i0.wp.com/images.mirror-media.xyz/publication-images/hliV_HVPiSIsFrUr_O12z.jpeg?ssl=1&w=500&resize=500&ssl=1 500w, https://i0.wp.com/images.mirror-media.xyz/publication-images/hliV_HVPiSIsFrUr_O12z.jpeg?ssl=1&w=640&resize=640&ssl=1 640w, https://i0.wp.com/images.mirror-media.xyz/publication-images/hliV_HVPiSIsFrUr_O12z.jpeg?ssl=1&w=800&resize=800&ssl=1 800w, https://i0.wp.com/images.mirror-media.xyz/publication-images/hliV_HVPiSIsFrUr_O12z.jpeg?ssl=1&w=1024&resize=1024&ssl=1 1024w, https://i0.wp.com/images.mirror-media.xyz/publication-images/hliV_HVPiSIsFrUr_O12z.jpeg?ssl=1&w=1280&resize=1280&ssl=1 1280w, https://i0.wp.com/images.mirror-media.xyz/publication-images/hliV_HVPiSIsFrUr_O12z.jpeg?ssl=1&w=1600&resize=1600&ssl=1 1600w" fifu-data-src="https://i0.wp.com/images.mirror-media.xyz/publication-images/hliV_HVPiSIsFrUr_O12z.jpeg?ssl=1" alt="" style="width:645px;height:auto"/></figure>
 
 
@@ -296,27 +294,28 @@
 
 
 <p>Joining&nbsp;<strong>wahtoon.com</strong>&nbsp;not only gives you access to this exclusive content but also lets you engage with Johnny in a more personal way. It’s the perfect opportunity to follow his fitness transformation and gain insights into the discipline and mindset that drives him every day.</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>//www.queerqonnection.com/the-phenomenon-of-johnny-johnny-run-a-taiwanese-influencer-whos-captivating-audiences-worldwide/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
+]]></content>
 		
-		
-		<media:content url="https://i0.wp.com/images.mirror-media.xyz/publication-images/hliV_HVPiSIsFrUr_O12z.jpeg" medium="image"></media:content>
-				</item>
-		<item>
-		<title>From SIA Steward to Yoga Influencer: The Inspiring Journey of Yoganathan Pichay</title>
-		<link>//www.queerqonnection.com/from-sia-steward-to-yoga-influencer-the-inspiring-journey-of-yoganathan-pichay/</link>
-					<comments>//www.queerqonnection.com/from-sia-steward-to-yoga-influencer-the-inspiring-journey-of-yoganathan-pichay/#respond</comments>
-		
-		<dc:creator><![CDATA[nathan]]></dc:creator>
-		<pubDate>Wed, 20 Nov 2024 02:31:45 +0000</pubDate>
-				<category><![CDATA[Singapore]]></category>
-		<category><![CDATA[Leaked Photos]]></category>
-		<guid isPermaLink="false">//www.queerqonnection.com/?p=37</guid>
+					<link rel="replies" type="text/html" href="//www.queerqonnection.com/the-phenomenon-of-johnny-johnny-run-a-taiwanese-influencer-whos-captivating-audiences-worldwide/#comments" thr:count="0" />
+			<link rel="replies" type="application/atom+xml" href="//www.queerqonnection.com/the-phenomenon-of-johnny-johnny-run-a-taiwanese-influencer-whos-captivating-audiences-worldwide/feed/atom/" thr:count="0" />
+			<thr:total>0</thr:total>
+			</entry>
+		<entry>
+		<author>
+			<name>nathan</name>
+							<uri>//www.queerqonnection.com</uri>
+						</author>
 
-					<description><![CDATA[In a world where career transformations are becoming more common, few stories are as inspiring as that of&#160;Yoganathan Pichay. Once an esteemed&#160;Singapore Airlines (SIA)&#160;steward,&#160;Yoganathanhas reinvented himself as a&#160;yoga enthusiast&#160;and is now on a mission to become a prominent&#160;fitness influencer. In this blog post, we’ll explore Nathan’s journey from the skies to the yoga mat and [&#8230;]]]></description>
-										<content:encoded><![CDATA[
+		<title type="html"><![CDATA[From SIA Steward to Yoga Influencer: The Inspiring Journey of Yoganathan Pichay]]></title>
+		<link rel="alternate" type="text/html" href="//www.queerqonnection.com/from-sia-steward-to-yoga-influencer-the-inspiring-journey-of-yoganathan-pichay/" />
+
+		<id>//www.queerqonnection.com/?p=37</id>
+		<updated>2024-11-20T02:36:34Z</updated>
+		<published>2024-11-20T02:31:45Z</published>
+		<category scheme="//www.queerqonnection.com" term="Singapore" /><category scheme="//www.queerqonnection.com" term="Leaked Photos" />
+		<summary type="html"><![CDATA[In a world where career transformations are becoming more common, few stories are as inspiring as that of&#160;Yoganathan Pichay. Once an esteemed&#160;Singapore Airlines (SIA)&#160;steward,&#160;Yoganathanhas reinvented himself as a&#160;yoga enthusiast&#160;and is now on a mission to become a prominent&#160;fitness influencer. In this blog post, we’ll explore Nathan’s journey from the skies to the yoga mat and [&#8230;]]]></summary>
+
+					<content type="html" xml:base="//www.queerqonnection.com/from-sia-steward-to-yoga-influencer-the-inspiring-journey-of-yoganathan-pichay/"><![CDATA[
 <figure class="wp-block-image aligncenter size-large"><img decoding="async" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///ywAAAAAAQABAAACAUwAOw==" fifu-lazy="1" fifu-data-sizes="auto" fifu-data-srcset="https://i3.wp.com/images.mirror-media.xyz/publication-images/79sM9f785CvETMBYbmDhR.jpeg?height=720&width=1440&ssl=1&w=75&resize=75&ssl=1 75w, https://i3.wp.com/images.mirror-media.xyz/publication-images/79sM9f785CvETMBYbmDhR.jpeg?height=720&width=1440&ssl=1&w=100&resize=100&ssl=1 100w, https://i3.wp.com/images.mirror-media.xyz/publication-images/79sM9f785CvETMBYbmDhR.jpeg?height=720&width=1440&ssl=1&w=150&resize=150&ssl=1 150w, https://i3.wp.com/images.mirror-media.xyz/publication-images/79sM9f785CvETMBYbmDhR.jpeg?height=720&width=1440&ssl=1&w=240&resize=240&ssl=1 240w, https://i3.wp.com/images.mirror-media.xyz/publication-images/79sM9f785CvETMBYbmDhR.jpeg?height=720&width=1440&ssl=1&w=320&resize=320&ssl=1 320w, https://i3.wp.com/images.mirror-media.xyz/publication-images/79sM9f785CvETMBYbmDhR.jpeg?height=720&width=1440&ssl=1&w=500&resize=500&ssl=1 500w, https://i3.wp.com/images.mirror-media.xyz/publication-images/79sM9f785CvETMBYbmDhR.jpeg?height=720&width=1440&ssl=1&w=640&resize=640&ssl=1 640w, https://i3.wp.com/images.mirror-media.xyz/publication-images/79sM9f785CvETMBYbmDhR.jpeg?height=720&width=1440&ssl=1&w=800&resize=800&ssl=1 800w, https://i3.wp.com/images.mirror-media.xyz/publication-images/79sM9f785CvETMBYbmDhR.jpeg?height=720&width=1440&ssl=1&w=1024&resize=1024&ssl=1 1024w, https://i3.wp.com/images.mirror-media.xyz/publication-images/79sM9f785CvETMBYbmDhR.jpeg?height=720&width=1440&ssl=1&w=1280&resize=1280&ssl=1 1280w, https://i3.wp.com/images.mirror-media.xyz/publication-images/79sM9f785CvETMBYbmDhR.jpeg?height=720&width=1440&ssl=1&w=1600&resize=1600&ssl=1 1600w" fifu-data-src="https://i3.wp.com/images.mirror-media.xyz/publication-images/79sM9f785CvETMBYbmDhR.jpeg?height=720&width=1440&ssl=1" alt=""/></figure>
 
 
@@ -436,27 +435,28 @@
 
 
 <p><strong>Come to wahtoon.com and find some of the racy videos he shares with the ones he interested in.<br><br>Keywords</strong>:&nbsp;<strong>Yoganathan</strong>&nbsp;Pichay, Nathan_Pichay, SIA steward, yoga influencer, Singapore yoga, fitness influencer, yoga tutorials, wellness tips, mindfulness, fitness transformation</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>//www.queerqonnection.com/from-sia-steward-to-yoga-influencer-the-inspiring-journey-of-yoganathan-pichay/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
+]]></content>
 		
-		
-		<media:content url="https://i3.wp.com/images.mirror-media.xyz/publication-images/79sM9f785CvETMBYbmDhR.jpeg" medium="image"></media:content>
-				</item>
-		<item>
-		<title>Gavin She: The SAVILLS Super Prime Homes Director Who’s Pushing Boundaries in Real Estate and Personal Style</title>
-		<link>//www.queerqonnection.com/gavin-she-the-savills-super-prime-homes-director-whos-pushing-boundaries-in-real-estate-and-personal-style/</link>
-					<comments>//www.queerqonnection.com/gavin-she-the-savills-super-prime-homes-director-whos-pushing-boundaries-in-real-estate-and-personal-style/#respond</comments>
-		
-		<dc:creator><![CDATA[nathan]]></dc:creator>
-		<pubDate>Wed, 20 Nov 2024 02:30:42 +0000</pubDate>
-				<category><![CDATA[Hong Kong]]></category>
-		<category><![CDATA[Leaked Photos]]></category>
-		<guid isPermaLink="false">//www.queerqonnection.com/?p=34</guid>
+					<link rel="replies" type="text/html" href="//www.queerqonnection.com/from-sia-steward-to-yoga-influencer-the-inspiring-journey-of-yoganathan-pichay/#comments" thr:count="0" />
+			<link rel="replies" type="application/atom+xml" href="//www.queerqonnection.com/from-sia-steward-to-yoga-influencer-the-inspiring-journey-of-yoganathan-pichay/feed/atom/" thr:count="0" />
+			<thr:total>0</thr:total>
+			</entry>
+		<entry>
+		<author>
+			<name>nathan</name>
+							<uri>//www.queerqonnection.com</uri>
+						</author>
 
-					<description><![CDATA[Gavin She, Director of SAVILLS Super Prime Homes, is no stranger to success in the high-end property market. As a key figure in luxury real estate, She has built a reputation for excellence, helping clients find exclusive, ultra-luxury homes in the most sought-after locations. Recently, he caught the attention of the fashion and lifestyle world [&#8230;]]]></description>
-										<content:encoded><![CDATA[
+		<title type="html"><![CDATA[Gavin She: The SAVILLS Super Prime Homes Director Who’s Pushing Boundaries in Real Estate and Personal Style]]></title>
+		<link rel="alternate" type="text/html" href="//www.queerqonnection.com/gavin-she-the-savills-super-prime-homes-director-whos-pushing-boundaries-in-real-estate-and-personal-style/" />
+
+		<id>//www.queerqonnection.com/?p=34</id>
+		<updated>2024-11-20T02:36:43Z</updated>
+		<published>2024-11-20T02:30:42Z</published>
+		<category scheme="//www.queerqonnection.com" term="Hong Kong" /><category scheme="//www.queerqonnection.com" term="Leaked Photos" />
+		<summary type="html"><![CDATA[Gavin She, Director of SAVILLS Super Prime Homes, is no stranger to success in the high-end property market. As a key figure in luxury real estate, She has built a reputation for excellence, helping clients find exclusive, ultra-luxury homes in the most sought-after locations. Recently, he caught the attention of the fashion and lifestyle world [&#8230;]]]></summary>
+
+					<content type="html" xml:base="//www.queerqonnection.com/gavin-she-the-savills-super-prime-homes-director-whos-pushing-boundaries-in-real-estate-and-personal-style/"><![CDATA[
 <figure class="wp-block-image size-large"><img decoding="async" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///ywAAAAAAQABAAACAUwAOw==" fifu-lazy="1" fifu-data-sizes="auto" fifu-data-srcset="https://i2.wp.com/images.mirror-media.xyz/publication-images/1gcQ9VXJwzlS3bg-ilez2.jpeg?height=642&width=1284&ssl=1&w=75&resize=75&ssl=1 75w, https://i2.wp.com/images.mirror-media.xyz/publication-images/1gcQ9VXJwzlS3bg-ilez2.jpeg?height=642&width=1284&ssl=1&w=100&resize=100&ssl=1 100w, https://i2.wp.com/images.mirror-media.xyz/publication-images/1gcQ9VXJwzlS3bg-ilez2.jpeg?height=642&width=1284&ssl=1&w=150&resize=150&ssl=1 150w, https://i2.wp.com/images.mirror-media.xyz/publication-images/1gcQ9VXJwzlS3bg-ilez2.jpeg?height=642&width=1284&ssl=1&w=240&resize=240&ssl=1 240w, https://i2.wp.com/images.mirror-media.xyz/publication-images/1gcQ9VXJwzlS3bg-ilez2.jpeg?height=642&width=1284&ssl=1&w=320&resize=320&ssl=1 320w, https://i2.wp.com/images.mirror-media.xyz/publication-images/1gcQ9VXJwzlS3bg-ilez2.jpeg?height=642&width=1284&ssl=1&w=500&resize=500&ssl=1 500w, https://i2.wp.com/images.mirror-media.xyz/publication-images/1gcQ9VXJwzlS3bg-ilez2.jpeg?height=642&width=1284&ssl=1&w=640&resize=640&ssl=1 640w, https://i2.wp.com/images.mirror-media.xyz/publication-images/1gcQ9VXJwzlS3bg-ilez2.jpeg?height=642&width=1284&ssl=1&w=800&resize=800&ssl=1 800w, https://i2.wp.com/images.mirror-media.xyz/publication-images/1gcQ9VXJwzlS3bg-ilez2.jpeg?height=642&width=1284&ssl=1&w=1024&resize=1024&ssl=1 1024w, https://i2.wp.com/images.mirror-media.xyz/publication-images/1gcQ9VXJwzlS3bg-ilez2.jpeg?height=642&width=1284&ssl=1&w=1280&resize=1280&ssl=1 1280w, https://i2.wp.com/images.mirror-media.xyz/publication-images/1gcQ9VXJwzlS3bg-ilez2.jpeg?height=642&width=1284&ssl=1&w=1600&resize=1600&ssl=1 1600w" fifu-data-src="https://i2.wp.com/images.mirror-media.xyz/publication-images/1gcQ9VXJwzlS3bg-ilez2.jpeg?height=642&width=1284&ssl=1" alt=""/></figure>
 
 
@@ -490,28 +490,28 @@
 
 
 <p></p>
-]]></content:encoded>
-					
-					<wfw:commentRss>//www.queerqonnection.com/gavin-she-the-savills-super-prime-homes-director-whos-pushing-boundaries-in-real-estate-and-personal-style/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
+]]></content>
 		
-		
-		<media:content url="https://i2.wp.com/images.mirror-media.xyz/publication-images/1gcQ9VXJwzlS3bg-ilez2.jpeg" medium="image"></media:content>
-				</item>
-		<item>
-		<title>Ricky.tw: The Taiwanese Nutritionist Who Brings Wellness to Your Screen</title>
-		<link>//www.queerqonnection.com/ricky-tw-the-taiwanese-nutritionist-who-brings-wellness-to-your-screen/</link>
-					<comments>//www.queerqonnection.com/ricky-tw-the-taiwanese-nutritionist-who-brings-wellness-to-your-screen/#respond</comments>
-		
-		<dc:creator><![CDATA[nathan]]></dc:creator>
-		<pubDate>Wed, 20 Nov 2024 02:27:25 +0000</pubDate>
-				<category><![CDATA[Taiwan]]></category>
-		<category><![CDATA[Celebrity]]></category>
-		<category><![CDATA[Leaked Video]]></category>
-		<guid isPermaLink="false">//www.queerqonnection.com/?p=30</guid>
+					<link rel="replies" type="text/html" href="//www.queerqonnection.com/gavin-she-the-savills-super-prime-homes-director-whos-pushing-boundaries-in-real-estate-and-personal-style/#comments" thr:count="0" />
+			<link rel="replies" type="application/atom+xml" href="//www.queerqonnection.com/gavin-she-the-savills-super-prime-homes-director-whos-pushing-boundaries-in-real-estate-and-personal-style/feed/atom/" thr:count="0" />
+			<thr:total>0</thr:total>
+			</entry>
+		<entry>
+		<author>
+			<name>nathan</name>
+							<uri>//www.queerqonnection.com</uri>
+						</author>
 
-					<description><![CDATA[Ricky.tw: The Taiwanese Nutritionist Who Brings Wellness to Your Screen In today’s digital age, more and more professionals are using technology to connect with a global audience, and one such individual is Ricky.tw, a prominent nutritionist from Taiwan who has found a unique way to bring wellness to your screen. Known for his passion for [&#8230;]]]></description>
-										<content:encoded><![CDATA[
+		<title type="html"><![CDATA[Ricky.tw: The Taiwanese Nutritionist Who Brings Wellness to Your Screen]]></title>
+		<link rel="alternate" type="text/html" href="//www.queerqonnection.com/ricky-tw-the-taiwanese-nutritionist-who-brings-wellness-to-your-screen/" />
+
+		<id>//www.queerqonnection.com/?p=30</id>
+		<updated>2024-11-20T02:37:21Z</updated>
+		<published>2024-11-20T02:27:25Z</published>
+		<category scheme="//www.queerqonnection.com" term="Taiwan" /><category scheme="//www.queerqonnection.com" term="Celebrity" /><category scheme="//www.queerqonnection.com" term="Leaked Video" />
+		<summary type="html"><![CDATA[Ricky.tw: The Taiwanese Nutritionist Who Brings Wellness to Your Screen In today’s digital age, more and more professionals are using technology to connect with a global audience, and one such individual is Ricky.tw, a prominent nutritionist from Taiwan who has found a unique way to bring wellness to your screen. Known for his passion for [&#8230;]]]></summary>
+
+					<content type="html" xml:base="//www.queerqonnection.com/ricky-tw-the-taiwanese-nutritionist-who-brings-wellness-to-your-screen/"><![CDATA[
 <figure class="wp-block-image aligncenter size-large is-resized"><img decoding="async" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///ywAAAAAAQABAAACAUwAOw==" fifu-lazy="1" fifu-data-sizes="auto" fifu-data-srcset="https://i2.wp.com/images.mirror-media.xyz/publication-images/yfFVPROij-8ovL5m6E_AY.png?height=320&width=640&ssl=1&w=75&resize=75&ssl=1 75w, https://i2.wp.com/images.mirror-media.xyz/publication-images/yfFVPROij-8ovL5m6E_AY.png?height=320&width=640&ssl=1&w=100&resize=100&ssl=1 100w, https://i2.wp.com/images.mirror-media.xyz/publication-images/yfFVPROij-8ovL5m6E_AY.png?height=320&width=640&ssl=1&w=150&resize=150&ssl=1 150w, https://i2.wp.com/images.mirror-media.xyz/publication-images/yfFVPROij-8ovL5m6E_AY.png?height=320&width=640&ssl=1&w=240&resize=240&ssl=1 240w, https://i2.wp.com/images.mirror-media.xyz/publication-images/yfFVPROij-8ovL5m6E_AY.png?height=320&width=640&ssl=1&w=320&resize=320&ssl=1 320w, https://i2.wp.com/images.mirror-media.xyz/publication-images/yfFVPROij-8ovL5m6E_AY.png?height=320&width=640&ssl=1&w=500&resize=500&ssl=1 500w, https://i2.wp.com/images.mirror-media.xyz/publication-images/yfFVPROij-8ovL5m6E_AY.png?height=320&width=640&ssl=1&w=640&resize=640&ssl=1 640w, https://i2.wp.com/images.mirror-media.xyz/publication-images/yfFVPROij-8ovL5m6E_AY.png?height=320&width=640&ssl=1&w=800&resize=800&ssl=1 800w, https://i2.wp.com/images.mirror-media.xyz/publication-images/yfFVPROij-8ovL5m6E_AY.png?height=320&width=640&ssl=1&w=1024&resize=1024&ssl=1 1024w, https://i2.wp.com/images.mirror-media.xyz/publication-images/yfFVPROij-8ovL5m6E_AY.png?height=320&width=640&ssl=1&w=1280&resize=1280&ssl=1 1280w, https://i2.wp.com/images.mirror-media.xyz/publication-images/yfFVPROij-8ovL5m6E_AY.png?height=320&width=640&ssl=1&w=1600&resize=1600&ssl=1 1600w" fifu-data-src="https://i2.wp.com/images.mirror-media.xyz/publication-images/yfFVPROij-8ovL5m6E_AY.png?height=320&width=640&ssl=1" alt="" style="width:645px;height:auto"/></figure>
 
 
@@ -631,27 +631,28 @@
 
 
 <p>If you’re looking to take control of your health and nutrition, Ricky.tw’s digital presence offers a unique opportunity to receive expert guidance from the comfort of your home. With his friendly, engaging, and interactive style, Ricky is leading the way in the future of online wellness. So, if you haven’t already, be sure to check out his live streams, webinars, and social media channels for the latest in nutrition tips and wellness advice.<br><br>If you want more of his private contents. Check out our TOT membership at&nbsp;<a href="https://wahtoon.com/" rel="noreferrer noopener" target="_blank">https://wahtoon.com/</a>&nbsp;and shop at&nbsp;<a href="https://shoppy.gg/@heynathanlum" rel="noreferrer noopener" target="_blank">https://shoppy.gg/@heynathanlum</a></p>
-]]></content:encoded>
-					
-					<wfw:commentRss>//www.queerqonnection.com/ricky-tw-the-taiwanese-nutritionist-who-brings-wellness-to-your-screen/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
+]]></content>
 		
-		
-		<media:content url="https://i2.wp.com/images.mirror-media.xyz/publication-images/yfFVPROij-8ovL5m6E_AY.png" medium="image"></media:content>
-				</item>
-		<item>
-		<title>Discovering EdHuangSG: The Rise of Ed Huang, Singapore’s Renowned Model and Webcam Star</title>
-		<link>//www.queerqonnection.com/discovering-edhuangsg-the-rise-of-ed-huang-singapores-renowned-model-and-webcam-star/</link>
-					<comments>//www.queerqonnection.com/discovering-edhuangsg-the-rise-of-ed-huang-singapores-renowned-model-and-webcam-star/#respond</comments>
-		
-		<dc:creator><![CDATA[nathan]]></dc:creator>
-		<pubDate>Wed, 20 Nov 2024 02:25:32 +0000</pubDate>
-				<category><![CDATA[Singapore]]></category>
-		<category><![CDATA[Leaked Video]]></category>
-		<guid isPermaLink="false">//www.queerqonnection.com/?p=27</guid>
+					<link rel="replies" type="text/html" href="//www.queerqonnection.com/ricky-tw-the-taiwanese-nutritionist-who-brings-wellness-to-your-screen/#comments" thr:count="0" />
+			<link rel="replies" type="application/atom+xml" href="//www.queerqonnection.com/ricky-tw-the-taiwanese-nutritionist-who-brings-wellness-to-your-screen/feed/atom/" thr:count="0" />
+			<thr:total>0</thr:total>
+			</entry>
+		<entry>
+		<author>
+			<name>nathan</name>
+							<uri>//www.queerqonnection.com</uri>
+						</author>
 
-					<description><![CDATA[If you’ve been following the dynamic world of Singapore’s fashion and entertainment scene, you’ve likely heard of&#160;Ed Huang—also known as&#160;EdHuangSG. Whether he’s gracing fashion shoots, captivating audiences on live webcams, or engaging fans through social media, Ed has quickly become a prominent name in the world of modeling and digital content creation. In this blog [&#8230;]]]></description>
-										<content:encoded><![CDATA[
+		<title type="html"><![CDATA[Discovering EdHuangSG: The Rise of Ed Huang, Singapore’s Renowned Model and Webcam Star]]></title>
+		<link rel="alternate" type="text/html" href="//www.queerqonnection.com/discovering-edhuangsg-the-rise-of-ed-huang-singapores-renowned-model-and-webcam-star/" />
+
+		<id>//www.queerqonnection.com/?p=27</id>
+		<updated>2024-11-20T02:37:27Z</updated>
+		<published>2024-11-20T02:25:32Z</published>
+		<category scheme="//www.queerqonnection.com" term="Singapore" /><category scheme="//www.queerqonnection.com" term="Leaked Video" />
+		<summary type="html"><![CDATA[If you’ve been following the dynamic world of Singapore’s fashion and entertainment scene, you’ve likely heard of&#160;Ed Huang—also known as&#160;EdHuangSG. Whether he’s gracing fashion shoots, captivating audiences on live webcams, or engaging fans through social media, Ed has quickly become a prominent name in the world of modeling and digital content creation. In this blog [&#8230;]]]></summary>
+
+					<content type="html" xml:base="//www.queerqonnection.com/discovering-edhuangsg-the-rise-of-ed-huang-singapores-renowned-model-and-webcam-star/"><![CDATA[
 <figure class="wp-block-image aligncenter size-large is-resized"><img decoding="async" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///ywAAAAAAQABAAACAUwAOw==" fifu-lazy="1" fifu-data-sizes="auto" fifu-data-srcset="https://i3.wp.com/images.mirror-media.xyz/publication-images/L8FbCuErT7tJcQLviMGk2.jpeg?height=200&width=400&ssl=1&w=75&resize=75&ssl=1 75w, https://i3.wp.com/images.mirror-media.xyz/publication-images/L8FbCuErT7tJcQLviMGk2.jpeg?height=200&width=400&ssl=1&w=100&resize=100&ssl=1 100w, https://i3.wp.com/images.mirror-media.xyz/publication-images/L8FbCuErT7tJcQLviMGk2.jpeg?height=200&width=400&ssl=1&w=150&resize=150&ssl=1 150w, https://i3.wp.com/images.mirror-media.xyz/publication-images/L8FbCuErT7tJcQLviMGk2.jpeg?height=200&width=400&ssl=1&w=240&resize=240&ssl=1 240w, https://i3.wp.com/images.mirror-media.xyz/publication-images/L8FbCuErT7tJcQLviMGk2.jpeg?height=200&width=400&ssl=1&w=320&resize=320&ssl=1 320w, https://i3.wp.com/images.mirror-media.xyz/publication-images/L8FbCuErT7tJcQLviMGk2.jpeg?height=200&width=400&ssl=1&w=500&resize=500&ssl=1 500w, https://i3.wp.com/images.mirror-media.xyz/publication-images/L8FbCuErT7tJcQLviMGk2.jpeg?height=200&width=400&ssl=1&w=640&resize=640&ssl=1 640w, https://i3.wp.com/images.mirror-media.xyz/publication-images/L8FbCuErT7tJcQLviMGk2.jpeg?height=200&width=400&ssl=1&w=800&resize=800&ssl=1 800w, https://i3.wp.com/images.mirror-media.xyz/publication-images/L8FbCuErT7tJcQLviMGk2.jpeg?height=200&width=400&ssl=1&w=1024&resize=1024&ssl=1 1024w, https://i3.wp.com/images.mirror-media.xyz/publication-images/L8FbCuErT7tJcQLviMGk2.jpeg?height=200&width=400&ssl=1&w=1280&resize=1280&ssl=1 1280w, https://i3.wp.com/images.mirror-media.xyz/publication-images/L8FbCuErT7tJcQLviMGk2.jpeg?height=200&width=400&ssl=1&w=1600&resize=1600&ssl=1 1600w" fifu-data-src="https://i3.wp.com/images.mirror-media.xyz/publication-images/L8FbCuErT7tJcQLviMGk2.jpeg?height=200&width=400&ssl=1" alt="" style="width:634px;height:auto"/></figure>
 
 
@@ -763,28 +764,28 @@
 
 
 <p></p>
-]]></content:encoded>
-					
-					<wfw:commentRss>//www.queerqonnection.com/discovering-edhuangsg-the-rise-of-ed-huang-singapores-renowned-model-and-webcam-star/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
+]]></content>
 		
-		
-		<media:content url="https://i3.wp.com/images.mirror-media.xyz/publication-images/L8FbCuErT7tJcQLviMGk2.jpeg" medium="image"></media:content>
-				</item>
-		<item>
-		<title>Joseph Chong: A Distinguished Educator at NPSI and Raffles Institution by day. Has profile on male escorts site.</title>
-		<link>//www.queerqonnection.com/joseph-chong-a-distinguished-educator-at-npsi-and-raffles-institution-by-day-has-profile-on-male-escorts-site/</link>
-					<comments>//www.queerqonnection.com/joseph-chong-a-distinguished-educator-at-npsi-and-raffles-institution-by-day-has-profile-on-male-escorts-site/#respond</comments>
-		
-		<dc:creator><![CDATA[nathan]]></dc:creator>
-		<pubDate>Mon, 18 Nov 2024 14:48:35 +0000</pubDate>
-				<category><![CDATA[Singapore]]></category>
-		<category><![CDATA[Leaked Photos]]></category>
-		<category><![CDATA[Leaked Video]]></category>
-		<guid isPermaLink="false">//www.queerqonnection.com/?p=23</guid>
+					<link rel="replies" type="text/html" href="//www.queerqonnection.com/discovering-edhuangsg-the-rise-of-ed-huang-singapores-renowned-model-and-webcam-star/#comments" thr:count="0" />
+			<link rel="replies" type="application/atom+xml" href="//www.queerqonnection.com/discovering-edhuangsg-the-rise-of-ed-huang-singapores-renowned-model-and-webcam-star/feed/atom/" thr:count="0" />
+			<thr:total>0</thr:total>
+			</entry>
+		<entry>
+		<author>
+			<name>nathan</name>
+							<uri>//www.queerqonnection.com</uri>
+						</author>
 
-					<description><![CDATA[Joseph Chong: A Distinguished Educator at NPSI and Raffles Institution When discussing exceptional educators in Singapore, one name that stands out is Joseph Chong. With a passion for teaching and a commitment to student development, Joseph has earned a reputation as a dedicated and innovative teacher. His career spans across various prestigious institutions, including his [&#8230;]]]></description>
-										<content:encoded><![CDATA[
+		<title type="html"><![CDATA[Joseph Chong: A Distinguished Educator at NPSI and Raffles Institution by day. Has profile on male escorts site.]]></title>
+		<link rel="alternate" type="text/html" href="//www.queerqonnection.com/joseph-chong-a-distinguished-educator-at-npsi-and-raffles-institution-by-day-has-profile-on-male-escorts-site/" />
+
+		<id>//www.queerqonnection.com/?p=23</id>
+		<updated>2024-11-20T02:37:31Z</updated>
+		<published>2024-11-18T14:48:35Z</published>
+		<category scheme="//www.queerqonnection.com" term="Singapore" /><category scheme="//www.queerqonnection.com" term="Leaked Photos" /><category scheme="//www.queerqonnection.com" term="Leaked Video" />
+		<summary type="html"><![CDATA[Joseph Chong: A Distinguished Educator at NPSI and Raffles Institution When discussing exceptional educators in Singapore, one name that stands out is Joseph Chong. With a passion for teaching and a commitment to student development, Joseph has earned a reputation as a dedicated and innovative teacher. His career spans across various prestigious institutions, including his [&#8230;]]]></summary>
+
+					<content type="html" xml:base="//www.queerqonnection.com/joseph-chong-a-distinguished-educator-at-npsi-and-raffles-institution-by-day-has-profile-on-male-escorts-site/"><![CDATA[
 <figure class="wp-block-image aligncenter size-large"><img decoding="async" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///ywAAAAAAQABAAACAUwAOw==" fifu-lazy="1" fifu-data-sizes="auto" fifu-data-srcset="https://i1.wp.com/images.mirror-media.xyz/publication-images/DWrjRDpzcfZ4l4RhSM5AN.jpeg?height=544&width=1087&ssl=1&w=75&resize=75&ssl=1 75w, https://i1.wp.com/images.mirror-media.xyz/publication-images/DWrjRDpzcfZ4l4RhSM5AN.jpeg?height=544&width=1087&ssl=1&w=100&resize=100&ssl=1 100w, https://i1.wp.com/images.mirror-media.xyz/publication-images/DWrjRDpzcfZ4l4RhSM5AN.jpeg?height=544&width=1087&ssl=1&w=150&resize=150&ssl=1 150w, https://i1.wp.com/images.mirror-media.xyz/publication-images/DWrjRDpzcfZ4l4RhSM5AN.jpeg?height=544&width=1087&ssl=1&w=240&resize=240&ssl=1 240w, https://i1.wp.com/images.mirror-media.xyz/publication-images/DWrjRDpzcfZ4l4RhSM5AN.jpeg?height=544&width=1087&ssl=1&w=320&resize=320&ssl=1 320w, https://i1.wp.com/images.mirror-media.xyz/publication-images/DWrjRDpzcfZ4l4RhSM5AN.jpeg?height=544&width=1087&ssl=1&w=500&resize=500&ssl=1 500w, https://i1.wp.com/images.mirror-media.xyz/publication-images/DWrjRDpzcfZ4l4RhSM5AN.jpeg?height=544&width=1087&ssl=1&w=640&resize=640&ssl=1 640w, https://i1.wp.com/images.mirror-media.xyz/publication-images/DWrjRDpzcfZ4l4RhSM5AN.jpeg?height=544&width=1087&ssl=1&w=800&resize=800&ssl=1 800w, https://i1.wp.com/images.mirror-media.xyz/publication-images/DWrjRDpzcfZ4l4RhSM5AN.jpeg?height=544&width=1087&ssl=1&w=1024&resize=1024&ssl=1 1024w, https://i1.wp.com/images.mirror-media.xyz/publication-images/DWrjRDpzcfZ4l4RhSM5AN.jpeg?height=544&width=1087&ssl=1&w=1280&resize=1280&ssl=1 1280w, https://i1.wp.com/images.mirror-media.xyz/publication-images/DWrjRDpzcfZ4l4RhSM5AN.jpeg?height=544&width=1087&ssl=1&w=1600&resize=1600&ssl=1 1600w" fifu-data-src="https://i1.wp.com/images.mirror-media.xyz/publication-images/DWrjRDpzcfZ4l4RhSM5AN.jpeg?height=544&width=1087&ssl=1" alt=""/></figure>
 
 
@@ -936,27 +937,28 @@
 
 
 <p><a href="https://ipfs.io/ipfs/QmaFCBEbJj1hEzTQgWQ1PC3wds4yM9pN2KPPZ6gkCSipBS/" rel="noreferrer noopener" target="_blank">A directory of content-addressed files hosted on IPFS.</a><a href="https://ipfs.io/ipfs/QmaFCBEbJj1hEzTQgWQ1PC3wds4yM9pN2KPPZ6gkCSipBS/" rel="noreferrer noopener" target="_blank">ipfs.io</a></p>
-]]></content:encoded>
-					
-					<wfw:commentRss>//www.queerqonnection.com/joseph-chong-a-distinguished-educator-at-npsi-and-raffles-institution-by-day-has-profile-on-male-escorts-site/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
+]]></content>
 		
-		
-		<media:content url="https://i1.wp.com/images.mirror-media.xyz/publication-images/DWrjRDpzcfZ4l4RhSM5AN.jpeg" medium="image"></media:content>
-				</item>
-		<item>
-		<title>Jerry Dang Comose.co Founder jerrysgmel</title>
-		<link>//www.queerqonnection.com/jerry-dang-comose-co-founder-jerrysgmel/</link>
-					<comments>//www.queerqonnection.com/jerry-dang-comose-co-founder-jerrysgmel/#respond</comments>
-		
-		<dc:creator><![CDATA[nathan]]></dc:creator>
-		<pubDate>Mon, 18 Nov 2024 14:25:57 +0000</pubDate>
-				<category><![CDATA[Singapore]]></category>
-		<category><![CDATA[Leaked Photos]]></category>
-		<guid isPermaLink="false">//www.queerqonnection.com/?p=12</guid>
+					<link rel="replies" type="text/html" href="//www.queerqonnection.com/joseph-chong-a-distinguished-educator-at-npsi-and-raffles-institution-by-day-has-profile-on-male-escorts-site/#comments" thr:count="0" />
+			<link rel="replies" type="application/atom+xml" href="//www.queerqonnection.com/joseph-chong-a-distinguished-educator-at-npsi-and-raffles-institution-by-day-has-profile-on-male-escorts-site/feed/atom/" thr:count="0" />
+			<thr:total>0</thr:total>
+			</entry>
+		<entry>
+		<author>
+			<name>nathan</name>
+							<uri>//www.queerqonnection.com</uri>
+						</author>
 
-					<description><![CDATA[Jerry Dang: Revolutionizing E-Commerce with Cosmose.co In today’s rapidly evolving digital landscape, e-commerce has become an indispensable part of global commerce. However, the ability to truly understand consumer behavior and optimize retail strategies remains a challenge for many businesses. Enter&#160;Jerry Dang, the visionary entrepreneur behind&#160;Cosmose.co, a company that is revolutionizing the way brands connect with [&#8230;]]]></description>
-										<content:encoded><![CDATA[
+		<title type="html"><![CDATA[Jerry Dang Comose.co Founder jerrysgmel]]></title>
+		<link rel="alternate" type="text/html" href="//www.queerqonnection.com/jerry-dang-comose-co-founder-jerrysgmel/" />
+
+		<id>//www.queerqonnection.com/?p=12</id>
+		<updated>2024-11-20T02:37:38Z</updated>
+		<published>2024-11-18T14:25:57Z</published>
+		<category scheme="//www.queerqonnection.com" term="Singapore" /><category scheme="//www.queerqonnection.com" term="Leaked Photos" />
+		<summary type="html"><![CDATA[Jerry Dang: Revolutionizing E-Commerce with Cosmose.co In today’s rapidly evolving digital landscape, e-commerce has become an indispensable part of global commerce. However, the ability to truly understand consumer behavior and optimize retail strategies remains a challenge for many businesses. Enter&#160;Jerry Dang, the visionary entrepreneur behind&#160;Cosmose.co, a company that is revolutionizing the way brands connect with [&#8230;]]]></summary>
+
+					<content type="html" xml:base="//www.queerqonnection.com/jerry-dang-comose-co-founder-jerrysgmel/"><![CDATA[
 <p><strong>Jerry Dang: Revolutionizing E-Commerce with Cosmose.co</strong></p>
 
 
@@ -1234,13 +1236,10 @@
 
 
 <p></p>
-]]></content:encoded>
-					
-					<wfw:commentRss>//www.queerqonnection.com/jerry-dang-comose-co-founder-jerrysgmel/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
+]]></content>
 		
-		
-		<media:content url="https://i0.wp.com/images.mirror-media.xyz/publication-images/_vzalF1PELBbJA7P-OwoQ.png" medium="image"></media:content>
-				</item>
-	</channel>
-</rss>
+					<link rel="replies" type="text/html" href="//www.queerqonnection.com/jerry-dang-comose-co-founder-jerrysgmel/#comments" thr:count="0" />
+			<link rel="replies" type="application/atom+xml" href="//www.queerqonnection.com/jerry-dang-comose-co-founder-jerrysgmel/feed/atom/" thr:count="0" />
+			<thr:total>0</thr:total>
+			</entry>
+	</feed>
