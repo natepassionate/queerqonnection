@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?><?xml-stylesheet type='text/xsl' href='https://www.queerqonnection.com/wp-content/plugins/google-sitemap-generator/sitemap.xsl'?><!-- sitemap-generator-url='http://www.arnebrachhold.de/' sitemap-generator-version='4.1.21' -->
-<!-- generated-on='December 3, 2024 2:09 am' -->
+<!-- generated-on='December 3, 2024 7:51 am' -->
 <urlset xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd' xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>	<url>
 		<loc>https://www.queerqonnection.com/jerry-dang-comose-co-founder-jerrysgmel/</loc>
 		<lastmod>2024-11-20T02:37:38+00:00</lastmod>
@@ -90,4 +90,10 @@
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
-</urlset><!-- Request ID: 87c336a1d762000fe0468dec2ef43917; Queries for sitemap: 5; Total queries: 22; Seconds: 0.01; Memory for sitemap: 1KB; Total memory: 52MB -->
+	<url>
+		<loc>https://www.queerqonnection.com/meet-flanz-lew-aka-flanz930-the-fitness-guru-whos-redefining-personal-training/</loc>
+		<lastmod>2024-12-03T07:43:09+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+</urlset><!-- Request ID: 785edee1db72af329416a01dd25043af; Queries for sitemap: 5; Total queries: 22; Seconds: 0.01; Memory for sitemap: 1KB; Total memory: 52MB -->

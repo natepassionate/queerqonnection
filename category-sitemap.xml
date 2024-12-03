@@ -1,8 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?><?xml-stylesheet type='text/xsl' href='https://www.queerqonnection.com/wp-content/plugins/google-sitemap-generator/sitemap.xsl'?><!-- sitemap-generator-url='http://www.arnebrachhold.de/' sitemap-generator-version='4.1.21' -->
-<!-- generated-on='December 3, 2024 2:09 am' -->
+<!-- generated-on='December 3, 2024 7:51 am' -->
 <urlset xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd' xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>	<url>
 		<loc>https://www.queerqonnection.com/category/hong-kong/</loc>
 		<lastmod>2024-11-24T04:12:13+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.3</priority>
+	</url>
+	<url>
+		<loc>https://www.queerqonnection.com/category/malaysia/</loc>
+		<lastmod>2024-12-03T07:41:01+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.3</priority>
 	</url>
@@ -24,4 +30,4 @@
 		<changefreq>weekly</changefreq>
 		<priority>0.3</priority>
 	</url>
-</urlset><!-- Request ID: caf1c687954339d3a531dbcdc63acbd7; Queries for sitemap: 6; Total queries: 23; Seconds: 0.17; Memory for sitemap: 1KB; Total memory: 52MB -->
+</urlset><!-- Request ID: 7715703d135b3b7569f6d0dcf99935cc; Queries for sitemap: 7; Total queries: 24; Seconds: 0.29; Memory for sitemap: 1KB; Total memory: 52MB -->
