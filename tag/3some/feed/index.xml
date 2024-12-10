@@ -127,7 +127,9 @@
 			<slash:comments>0</slash:comments>
 		
 		
-		<media:content url="https://i3.wp.com/images.mirror-media.xyz/publication-images/ksOVt-Ns0mSAEW193Pl9E.jpeg" medium="image"></media:content>
+		<br />
+<b>Warning</b>:  Undefined variable $post_id in <b>Y:\xampp\htdocs\whorepress\wp-content\plugins\featured-image-from-url\includes\thumbnail.php</b> on line <b>431</b><br />
+<media:content url="https://i3.wp.com/images.mirror-media.xyz/publication-images/ksOVt-Ns0mSAEW193Pl9E.jpeg" medium="image"></media:content>
 				</item>
 	</channel>
 </rss>
