@@ -1,23 +1,23 @@
 <?xml version='1.0' encoding='UTF-8'?><?xml-stylesheet type='text/xsl' href='https://www.queerqonnection.com/wp-content/plugins/google-sitemap-generator/sitemap.xsl'?><!-- sitemap-generator-url='http://www.arnebrachhold.de/' sitemap-generator-version='4.1.21' -->
-<!-- generated-on='December 10, 2024 10:06 am' -->
+<!-- generated-on='December 12, 2024 3:01 pm' -->
 <sitemapindex xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/siteindex.xsd' xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>	<sitemap>
 		<loc>https://www.queerqonnection.com/sitemap-misc.xml</loc>
-		<lastmod>2024-12-10T10:05:48+00:00</lastmod>
+		<lastmod>2024-12-11T06:22:07+00:00</lastmod>
 	</sitemap>
 	<sitemap>
 		<loc>https://www.queerqonnection.com/post_tag-sitemap.xml</loc>
-		<lastmod>2024-12-10T10:05:48+00:00</lastmod>
+		<lastmod>2024-12-11T06:22:07+00:00</lastmod>
 	</sitemap>
 	<sitemap>
 		<loc>https://www.queerqonnection.com/category-sitemap.xml</loc>
-		<lastmod>2024-12-10T10:05:48+00:00</lastmod>
+		<lastmod>2024-12-11T06:22:07+00:00</lastmod>
 	</sitemap>
 	<sitemap>
 		<loc>https://www.queerqonnection.com/post-sitemap.xml</loc>
-		<lastmod>2024-12-10T10:05:48+00:00</lastmod>
+		<lastmod>2024-12-11T06:22:07+00:00</lastmod>
 	</sitemap>
 	<sitemap>
 		<loc>https://www.queerqonnection.com/page-sitemap.xml</loc>
 		<lastmod>2024-12-03T07:49:15+00:00</lastmod>
 	</sitemap>
-</sitemapindex><!-- Request ID: 0babfe585da35f45f2e6178e5fb28288; Queries for sitemap: 7; Total queries: 24; Seconds: 0.05; Memory for sitemap: 1KB; Total memory: 52MB -->
+</sitemapindex><!-- Request ID: f1fd1f27b22ffc9ef04d6991775245a6; Queries for sitemap: 7; Total queries: 24; Seconds: 0.1; Memory for sitemap: 1KB; Total memory: 52MB -->
