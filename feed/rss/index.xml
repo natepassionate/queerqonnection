@@ -2,13 +2,13 @@
 <html>
 	<head>
 		<title>Redirecting...</title>
-		<meta http-equiv="refresh" content="0;url=//www.queerqonnection.com/feed/">
+		<meta http-equiv="refresh" content="0;url=/feed/">
 	</head>
 	<body>
 		<script type="text/javascript">
-			window.location = "//www.queerqonnection.com/feed/";
+			window.location = "/feed/";
 		</script>
 
-		<p>You are being redirected to <a href="//www.queerqonnection.com/feed/">//www.queerqonnection.com/feed/</a></p>
+		<p>You are being redirected to <a href="/feed/">/feed/</a></p>
 	</body>
 </html>
