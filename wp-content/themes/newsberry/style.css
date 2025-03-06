@@ -7,7 +7,7 @@ Description: Meet NewsBerry, a sleek, fast, and mobile-friendly WordPress theme 
 Requires at least: 5.9
 Tested up to: 6.7
 Requires PHP: 5.6
-Version: 1.0.4
+Version: 1.0.6
 License: GNU General Public License v2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Text Domain: newsberry
@@ -2954,24 +2954,10 @@ button.search-untoggle {
 }
 .wp-block-tag-cloud a,
 .tagcloud a {
-    background: var(--wpi--base-bg-color);
-    color: var(--wpi--primary-bg-color);
-    padding: .4rem .8rem;
-    margin-bottom: 1.2rem;
     -webkit-transition: all .4s ease-in-out;
     -moz-transition: all .4s ease-in-out;
     -o-transition: all .4s ease-in-out;
     -ms-transition: all .4s ease-in-out;
-}
-.tagcloud a {
-    display: inline-block;
-}
-.wp-block-tag-cloud a:hover,
-.wp-block-tag-cloud a:focus,
-.tagcloud a:hover,
-.tagcloud a:focus {
-    background: var(--wpi--primary-bg-color);
-    color: var(--wpi--base-bg-color);
 }
 .wp-block-calendar table,
 .wp-calendar-table {
@@ -3018,12 +3004,6 @@ button.search-untoggle {
 .widget .wp-block-page-list li,
 .widget_meta ul li {
     padding: 1rem 0;
-    margin: 0;
-}
-.widget .wp-block-tag-cloud,
-.widget .tagcloud,
-.widget .wp-block-categories-dropdown {
-    padding: 2rem;
     margin: 0;
 }
 .widget .wp-block-categories-dropdown .postform {
@@ -3330,7 +3310,7 @@ button.search-untoggle {
     min-width: 12rem;
 }
 .categories-layout-2 .wpi-post .entry-details,
-.categories-layout-2 .wpi-post .entry-details {
+.categories-layout-3 .wpi-post .entry-details {
     flex: 1;
     min-width: 1px;
 }
@@ -4756,8 +4736,8 @@ button.search-untoggle {
 }
 /*rtl:begin:ignore*/
 .rtl .section-header-controls .banner-slider-control,
-.rtl .newscastle-nav-pagination .nav-links .page-numbers.prev .svg-icon,
-.rtl .newscastle-nav-pagination .nav-links .page-numbers.next .svg-icon {
+.rtl .newsberry-nav-pagination .nav-links .page-numbers.prev .svg-icon,
+.rtl .newsberry-nav-pagination .nav-links .page-numbers.next .svg-icon {
     -webkit-transform: scaleX(-1);
     transform: scaleX(-1);
 }
